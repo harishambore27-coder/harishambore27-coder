@@ -1,5 +1,4 @@
-# 💫 Hi 👋, I'm Harish Ambore
-**A passionate Dedicated || FullStack || Fresher**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Harish%20Ambore&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bachlore%20Of%20Computer%20Application&descSize=18&descAlignY=55&textBg=false"/>
 
 Email Me 👉 ✉️ **harishambore27@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -26,6 +25,12 @@ Potfoilio 👉 🔗  **https://modern-student-portf-0qmy.bolt.host/**
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harishambore27-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
